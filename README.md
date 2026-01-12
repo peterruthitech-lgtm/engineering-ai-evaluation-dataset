@@ -71,19 +71,16 @@ Full step-by-step instructions are in `docs/evaluation_guidelines.md`.
 ## Folder Structure
 
 engineering AI evaluation dataset/
-│
-├── data/
-│   └── engineering AI output evaluation.csv
-│
-├── docs/
-│   └── evaluation guidelines.md
-│
-├── notebooks/       
-│   └── dataset analysis.ipynb
-│
-├── README.md
-├── LICENSE
-└── .gitignore
+
+data/
+    engineering AI output evaluation.csv
+docs/
+   evaluation guidelines.md
+notebooks/       
+   dataset analysis.ipynb
+README.md
+LICENSE
+.gitignore
 
 
 ---
