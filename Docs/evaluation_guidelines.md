@@ -1,9 +1,5 @@
 # AI Output Evaluation Guidelines (Engineering Domain)
 
-Version: v0.2  
-Last updated: 2026-01-12  
-Authors: Peter Ruthi
-
 ## 1. Purpose of This Document
 
 This document defines the evaluation methodology used to label AI-generated responses in the Engineering AI Output Evaluation Dataset.
@@ -229,6 +225,18 @@ This dataset and methodology are intended for:
 - AI data reviewer training
 - AI model evaluation
 - Research into AI reliability in engineering domains
+
+---
+
+## 12. Version Control
+
+-Version: v1.0
+-Initial release: 2026-01-12 
+-Version: v1.1  
+-updated: 2026-01-12 
+-Version: v1.2
+-updated: 2026-01-16
+-Authors: Peter Ruthi
 
 ---
 
