@@ -102,6 +102,14 @@ LICENSE
 
 ---
 
+## Project Status
+
+This project is actively maintained.
+The dataset and evaluation guidelines are being expanded iteratively
+to improve coverage, labeling consistency, and reviewer alignment.
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).  
